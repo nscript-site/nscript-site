@@ -1,8 +1,6 @@
-## Hi there 👋
+## About me 👋
 
-I am a programmer and digital nomad, my interests are financial AI and programmatic content generation.
-
-Here are some of my open source projects:
+I am a programmer and digital nomad, my interests are financial AI and programmatic content generation. Here are some of my open source projects:
 
 - [NewBeeUI](https://github.com/nscript-site/NewBeeUI) (Chinese: 牛逼 UI) : An MVU-based GUI library for Avalonia. Specifically developed for programmers who are unfamiliar with or dislike AXAML, it is an extremely beginner-friendly GUI library
 - [NewBeeBS](https://github.com/nscript-site/NewBeeBS) (Chinese: 牛逼 BS) : Open source simple AI backend based on Blazor Server
